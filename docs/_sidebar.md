@@ -1,6 +1,6 @@
 - ♈概览
 
-  - [应用介绍](README.md)
+  - [应用介绍](home.md)
   - [代码示例](docs/introduction/codes.md)
   - [更新日志](introduction/release_log.md)
   - [开发计划](docs/introduction/development_plan.md)
